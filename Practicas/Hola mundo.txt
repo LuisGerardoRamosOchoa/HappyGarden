@@ -1,0 +1,10 @@
+void main() {
+  //comentario una linea
+  
+  /*  ESTE ES UN COMENTARIO MULTILINEA
+   * Hola de nuevo
+   * */
+  
+    print('Hola mundo');
+  
+}
